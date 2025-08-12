@@ -46,7 +46,5 @@ This project is a Streamlit application that uses Retrieval-Augmented Generation
 - `requirements.txt`: List of required Python packages.
 - `readme.md`: Project documentation.
 
-## Author
 
-Arpan Kumar (21322008)
 
